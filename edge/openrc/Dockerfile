@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM rezamoegni/alpine-linux:edge
 
 LABEL maintainer="reza.moegni@gmail.com" \
     org.label-schema.name="alpine" \
