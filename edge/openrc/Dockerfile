@@ -2,7 +2,7 @@ FROM rezamoegni/alpine-linux:edge
 
 LABEL maintainer="reza.moegni@gmail.com" \
     org.label-schema.name="alpine" \
-    org.label-schema.vendor="Dockage" \
+    org.label-schema.vendor="rezamoegni" \
     org.label-schema.description="Docker image uses openRC as a process supervision on Alpine Linux" \
     org.label-schema.version="edge-openrc" \
     org.label-schema.license="MIT"
